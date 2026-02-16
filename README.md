@@ -14,14 +14,14 @@ This workspace is a progression of Python exercises. Each module folder introduc
 - Tweak inputs or constants to observe changes in output.
 
 ## Modules
-- [py00](py00): basic functions, arithmetic, loops, recursion.
-- [py01](py01): data organization and small abstractions.
-- [py02](py02): exceptions and error handling.
-- [py03](py03): small systems and data processing.
-- [py04](py04): file and stream handling.
-- [py05](py05): data streams and pipelines.
-- [py06](py06): imports, modules, and packages.
-- [py07](py07): object-oriented design patterns.
-- [py08](py08): structured program design.
-- [py09](py09): data generation and export.
-- [py10](py10): decorators and higher-order functions.
+- [Python_Module_00](Python_Module_00): basic functions, arithmetic, loops, recursion.
+- [Python_Module_01](Python_Module_01): data organization and small abstractions.
+- [Python_Module_02](Python_Module_02): exceptions and error handling.
+- [Python_Module_03](Python_Module_03): small systems and data processing.
+- [Python_Module_04](Python_Module_04): file and stream handling.
+- [Python_Module_05](Python_Module_05): data streams and pipelines.
+- [Python_Module_06](Python_Module_06): imports, modules, and packages.
+- [Python_Module_07](Python_Module_07): object-oriented design patterns.
+- [Python_Module_08](Python_Module_08): structured program design.
+- [Python_Module_09](Python_Module_09): data generation and export.
+- [Python_Module_10](Python_Module_10): decorators and higher-order functions.
